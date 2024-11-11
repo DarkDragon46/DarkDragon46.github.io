@@ -2,3 +2,4 @@ title: DarkDragon46's Portfolio
 description: The gate to my portfolio
 remote_theme: pages-themes/midnight@v0.2.0
 github: https://github.com/DarkDragon46
+baseurl: /
